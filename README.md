@@ -1,6 +1,6 @@
 
 <p align="center">
-  ¡Hola! Soy Aythami Santana aka <Oasrcode/>, un desarrollador web y multimedia junior.
+  ¡Hola! Soy Aythami Santana  {{<Oasrcode/>}}, un desarrollador web y multimedia junior.
 </p>
 <p align="center">
   <a href="[tu sitio web]"><img src="https://img.shields.io/badge/sitio%20web-MiSitioWeb-blue"></a>
