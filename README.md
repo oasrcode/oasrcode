@@ -1,47 +1,44 @@
+<div align="center">
+  <h1>¡Hola! 👋 Soy [tu nombre]</h1>
+  <p>Soy un <strong>desarrollador web y multimedia</strong> con experiencia en el desarrollo de videojuegos educativos, creación de contenido e-Learning y técnico de plataformas Moodle.</p>
+  <p>¡Bienvenido a mi página de GitHub!</p>
+  <p>Me puedes encontrar en:</p>
+  <a href="https://www.linkedin.com/in/tu-perfil-linkedin/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
+  <a href="https://www.tu-sitio-web.com"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <h2>🚀 Proyectos Recientes</h2>
+  <ul>
+    <li>
+      <h3>PowerUp</h3>
+      <p>Una aplicación web para llevar un control de tus levantamientos de powerlifting, desarrollada con React y Firebase.</p>
+      <p><strong>Lenguajes y herramientas:</strong> HTML, CSS, JavaScript, React, Firebase.</p>
+      <a href="https://github.com/tu-usuario/powerup"><img src="https://img.icons8.com/fluency/48/000000/game-controller.png"/></a>
+    </li>
+    <li>
+      <h3>[Nombre del proyecto 2]</h3>
+      <p>[Breve descripción del proyecto 2]</p>
+      <p><strong>Lenguajes y herramientas:</strong> [lista de lenguajes y herramientas utilizados]</p>
+      <a href="[enlace a GitHub del proyecto 2]"><img src="[icono representativo del proyecto 2]"/></a>
+    </li>
+    <li>
+      <h3>[Nombre del proyecto 3]</h3>
+      <p>[Breve descripción del proyecto 3]</p>
+      <p><strong>Lenguajes y herramientas:</strong> [lista de lenguajes y herramientas utilizados]</p>
+      <a href="[enlace a GitHub del proyecto 3]"><img src="[icono representativo del proyecto 3]"/></a>
+    </li>
+  </ul>
+</div>
+
+<hr>
 
 <p align="center">
-  ¡Hola! Soy Aythami Santana, un desarrollador web y multimedia.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,angular,react,tailwind,nodejs,express,sequelize,spring,hibernate,net,mysql,postgres,git,github,azure,postman,firebase&perline=11" />
+  </a>
 </p>
-<p align="center">
-  <a href="[tu sitio web]"><img src="https://img.shields.io/badge/sitio%20web-MiSitioWeb-blue"></a>
-  <a href="[tu linkedin]"><img src="https://img.shields.io/badge/linkedin-TuPerfilDeLinkedin-blue"></a>
-  <a href="[tu correo]"><img src="https://img.shields.io/badge/Correo-TuCorreoElectrónico-blue"></a>
-</p>
-Acerca de mí
-Soy un desarrollador web y multimedia con una gran pasión por la tecnología y la creatividad.
 
-Mi experiencia laboral incluye el desarrollo de videojuegos educativos, la creación de contenido e-Learning y mi trabajo como técnico en plataformas Moodle. Todo esto me ha permitido ampliar mis conocimientos y adaptarme a las nuevas tendencias y herramientas del mercado.
-
-Soy una persona autodidacta y apasionada por el desarrollo web y multiplataforma, lo que me permite aprender rápidamente nuevas tecnologías. En mi experiencia he trabajado en el desarrollo de aplicaciones web utilizando herramientas como React, Node.js, Spring Boot, HTML, CSS y TailwindCSS. También he trabajado con bases de datos como MySQL y Oracle, y he tenido experiencia en el desarrollo de aplicaciones móviles con Ionic.
-
-Mis habilidades
-<p align="center">
-  <img src="https://i.imgur.com/8W9mxH1.png">
-</p>
-En mi trabajo como desarrollador web y multimedia junior, he adquirido habilidades en las siguientes áreas:
-
-Desarrollo web
-Diseño de UI/UX
-Manejo de bases de datos
-Desarrollo móvil
-Proyectos destacados
-Aquí presento algunos de los proyectos en los que he trabajado:
-
-Proyecto 1
-<p align="center">
-  <img src="https://i.imgur.com/sZTjbS2.png">
-</p>
-Descripción del proyecto y tecnologías utilizadas.
-
-Proyecto 2
-<p align="center">
-  <img src="https://i.imgur.com/MAwKKhJ.png">
-</p>
-Descripción del proyecto y tecnologías utilizadas.
-
-Contacto
-Si tienes algún proyecto en mente o simplemente quieres ponerte en contacto, puedes hacerlo a través de:
-
-Correo electrónico: [Tu correo electrónico]
-LinkedIn: [Tu perfil de LinkedIn]
-¡Gracias por visitar mi página!
+<hr>
