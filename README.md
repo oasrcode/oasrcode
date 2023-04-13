@@ -15,10 +15,5 @@
 </div>
 
 
-<div align="center">
- <h2>🚀 Proyectos Recientes</h2>
-  
-</div>
-
 
 
