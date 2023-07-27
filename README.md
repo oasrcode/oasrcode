@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! 👋 Soy Aythami Santana</h1>
-  <p>Soy un <strong>desarrollador web y multimedia</strong> con experiencia en el desarrollo de videojuegos educativos, creación de contenido e-Learning y técnico de plataformas Moodle.</p>
+  <p>Soy un <strong>desarrollador web y multimedia</strong> con experiencia en el desarrollo de aplicaciones web, de escritorio y  videojuegos educativos</p>
   <p>¡Bienvenido a mi página de GitHub!</p>
   <p>Me puedes encontrar en:</p>
   <a href="https://www.linkedin.com/in/tu-perfil-linkedin/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
