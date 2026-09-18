@@ -106,20 +106,6 @@ Algunas de las áreas en las que trabajo:
 Desarrollo de aplicaciones relacionadas con seguridad, emergencias, GIS, comunicaciones en tiempo real, sensores y análisis de datos.
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oasrcode&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasrcode&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🔗 Encuéntrame
 
 [Portfolio](https://oasrcode.github.io/) · [GitHub](https://github.com/oasrcode)
