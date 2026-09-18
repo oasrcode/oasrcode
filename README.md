@@ -99,60 +99,11 @@ Algunas de las áreas en las que trabajo:
 
 ---
 
-## 🧪 Proyectos
-
-### 📡 [IoT Simulator](https://github.com/oasrcode/iot-simulator)
-
-API para simular sensores de **aire y agua** y almacenar sus datos utilizando MongoDB y CrateDB.
-
-`TypeScript` `IoT` `MongoDB` `CrateDB` `Sensors`
-
----
-
-### 🎬 [Filmster](https://github.com/oasrcode/Filmster)
-
-Aplicación web para explorar películas utilizando información de **The Movie Database (TMDB)**.
-
-`Next.js` `JavaScript` `REST API` `TMDB`
-
----
-
-### 🌐 [Portfolio](https://oasrcode.github.io/)
-
-Mi portfolio personal, donde puedes encontrar más información sobre mi experiencia profesional, tecnologías y trayectoria.
-
----
-
 ## 💼 Experiencia
 
 **Full Stack Developer · Técnicas Competitivas**
-`2023 — Actualidad`
-
+`Actualidad`
 Desarrollo de aplicaciones relacionadas con seguridad, emergencias, GIS, comunicaciones en tiempo real, sensores y análisis de datos.
-
-**Gestor de plataforma Moodle · AtlasSystems**
-`2020`
-
-Gestión de plataformas de formación, cursos, contenidos y usuarios.
-
-**Desarrollador de Videojuegos · DYM Canarias**
-`2018 — 2019`
-
-Desarrollo de videojuegos educativos con Unity 3D y C#, contenidos SCORM y plataformas Moodle.
-
----
-
-## 🎓 Formación
-
-🎓 **CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)**
-IES El Rincón · 2020 — 2023
-
-🎮 **Desarrollo de Videojuegos y Realidad Virtual con Unity 3D**
-DYM Canarias · 2018
-
-🌍 **Inglés B2.1**
-Escuela Oficial de Idiomas
-
 ---
 
 ## 📊 GitHub
