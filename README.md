@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/oasrcode.png" width="135" alt="Aythami Santana" />
-
 # Hola, soy Aythami 👋
 
 ### Full Stack Developer · GIS · Real-Time Systems · IoT
