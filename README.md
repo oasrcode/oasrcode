@@ -1,14 +1,20 @@
 <div align="center">
 
-# 👋 Hola, soy Aythami Santana
+<img src="https://github.com/oasrcode.png" width="135" alt="Aythami Santana" />
+
+# Hola, soy Aythami 👋
 
 ### Full Stack Developer · GIS · Real-Time Systems · IoT
 
-Desarrollo aplicaciones web y sistemas orientados a **seguridad, emergencias, geolocalización y visualización de datos en tiempo real**.
+**Construyo software donde mapas, datos y eventos en tiempo real se encuentran.**
 
-📍 Las Palmas de Gran Canaria, España
+Desarrollo soluciones orientadas a **seguridad, emergencias, geolocalización e IoT**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oasrcode.github.io-111827?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://oasrcode.github.io/)
+📍 Gran Canaria · España
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-0F766E?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://oasrcode.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-oasrcode-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/oasrcode)
 
 </div>
@@ -17,102 +23,139 @@ Desarrollo aplicaciones web y sistemas orientados a **seguridad, emergencias, ge
 
 ## 👨‍💻 Sobre mí
 
-Soy **Desarrollador Full Stack** y actualmente trabajo en **Técnicas Competitivas**, desarrollando soluciones relacionadas con seguridad, emergencias y sistemas utilizados por organismos públicos.
+Soy **Full Stack Developer** y actualmente trabajo en **Técnicas Competitivas**, desarrollando soluciones tecnológicas relacionadas con seguridad y emergencias.
 
-Trabajo tanto en frontend como en backend, especialmente en aplicaciones que combinan:
+Mi trabajo suele estar justo en la intersección entre **desarrollo web, mapas, geolocalización, comunicaciones en tiempo real y sensores**.
 
-* 🗺️ Mapas, GIS y geolocalización
-* 🚓 Seguimiento y posicionamiento de unidades
-* ⚡ Comunicaciones en tiempo real
-* 📡 Sensores e IoT
-* 🔌 APIs e integración de servicios externos
-* 📊 Visualización y análisis de datos
+Actualmente participo en el desarrollo de **GISECloud**, trabajando con sistemas que integran información geográfica, posicionamiento de unidades, sensores y servicios externos.
 
-También tengo experiencia previa desarrollando **videojuegos educativos con Unity**, C# y plataformas de formación basadas en Moodle.
+> 🧭 Me gusta especialmente construir aplicaciones donde el mundo físico termina convirtiéndose en datos que puedes ver, analizar y utilizar en tiempo real.
 
 ---
 
-## 🚀 En qué trabajo
+## ⚡ Lo que construyo
 
-Actualmente participo en el desarrollo de **GISECloud**, una plataforma orientada a la gestión de emergencias y seguridad pública.
+| 🗺️ GIS & Mapping                   | 📍 Geolocalización                        |
+| :---------------------------------- | :---------------------------------------- |
+| MapLibre GL · Leaflet · cartografía | Posicionamiento y seguimiento de unidades |
+| **⚡ Tiempo real**                   | **📡 IoT & Sensors**                      |
+| MQTT · eventos · comunicaciones     | Sensores · telemetría · videovigilancia   |
+| **🔌 Integraciones**                | **📊 Datos**                              |
+| REST APIs · DGT · AEMET · IGN       | MongoDB · CrateDB · Power BI              |
 
-Algunas de las áreas en las que trabajo:
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Core
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,dotnet,cs,nextjs,mongodb\&perline=10)](https://skillicons.dev)
+
+### Tools
+
+[![My Tools](https://skillicons.dev/icons?i=azure,git,github,vscode,unity\&perline=10)](https://skillicons.dev)
+
+<br>
+
+![MapLibre](https://img.shields.io/badge/MapLibre_GL-396CB2?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square\&logo=leaflet\&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-2E7D32?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square\&logo=mqtt\&logoColor=white)
+![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 IoT Simulator
+
+API para simular sensores de **aire y agua**, generar información y almacenarla utilizando distintas tecnologías de datos.
+
+`TypeScript` `IoT` `MongoDB` `CrateDB`
+
+<br>
+
+[**Ver proyecto →**](https://github.com/oasrcode/iot-simulator)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Filmster
+
+Aplicación web para explorar películas utilizando información de **The Movie Database**, con búsquedas y páginas de detalle.
+
+`Next.js` `JavaScript` `REST API` `TMDB`
+
+<br>
+
+[**Ver proyecto →**](https://github.com/oasrcode/Filmster)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🌐 [oasrcode.github.io](https://oasrcode.github.io/)
+
+Mi portfolio con más información sobre mi experiencia, proyectos y trayectoria profesional.
+
+</div>
+
+---
+
+## 🛰️ Actualmente
 
 ```text
-🗺️  GIS & Mapping        → MapLibre GL · Leaflet
-📍  Geolocation          → Seguimiento y posicionamiento de unidades
-⚡  Real-time            → MQTT · eventos y comunicaciones
-📡  IoT                  → Sensores · videovigilancia · telemetría
-🌐  External services    → DGT · AEMET · IGN
-📊  Data                 → MongoDB · CrateDB · Power BI
-🔌  Backend              → C# · .NET · REST APIs
-🖥️  Frontend             → Angular · TypeScript · Tailwind CSS
+> building GISECloud...
+
+  🗺️  GIS             MapLibre GL · Leaflet
+  ⚡  Real-time       MQTT · events
+  📍  Tracking        Geolocation
+  📡  IoT             Sensors · telemetry
+  🔌  Backend         C# · .NET · REST
+  🖥️  Frontend        Angular · TypeScript
+  📊  Data            MongoDB · CrateDB · Power BI
 ```
 
 ---
 
-## 🛠️ Stack tecnológico
+## 📊 GitHub
 
-### Frontend
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=oasrcode&show_icons=true&hide_border=true&hide_title=true&theme=transparent"
+/>
 
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge" />
-</p>
-
-### GIS & mapas
-
-<p>
-  <img src="https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIS-2E7D32?style=for-the-badge" />
-</p>
-
-### Datos, IoT & tiempo real
-
-<p>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-### Herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
----
-
-## 💼 Experiencia
-
-**Full Stack Developer · Técnicas Competitivas**
-`Actualidad`
-Desarrollo de aplicaciones relacionadas con seguridad, emergencias, GIS, comunicaciones en tiempo real, sensores y análisis de datos.
----
-
-### 🔗 Encuéntrame
-
-[Portfolio](https://oasrcode.github.io/) · [GitHub](https://github.com/oasrcode)
-
-<br>
-
-**Full Stack · GIS · Real-Time · IoT**
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasrcode&layout=compact&hide_border=true&theme=transparent"
+/>
 
 </div>
 
+---
+
+<div align="center">
+
+### Let's build something useful. 🚀
+
+Software · GIS · Real-Time · IoT
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/oasrcode.github.io-Portfolio-0F766E?style=flat-square\&logo=githubpages\&logoColor=white)](https://oasrcode.github.io/)
+[![GitHub](https://img.shields.io/badge/@oasrcode-GitHub-181717?style=flat-square\&logo=github)](https://github.com/oasrcode)
+
+</div>
