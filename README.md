@@ -127,26 +127,6 @@ Mi portfolio con más información sobre mi experiencia, proyectos y trayectoria
   📊  Data            MongoDB · CrateDB · Power BI
 ```
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=oasrcode&show_icons=true&hide_border=true&hide_title=true&theme=transparent"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasrcode&layout=compact&hide_border=true&theme=transparent"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's build something useful. 🚀
